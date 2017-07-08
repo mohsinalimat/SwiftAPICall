@@ -1,7 +1,8 @@
 # SwiftAPICall
 
 Just Call below function.
-#POST METHOD
+
+# POST METHOD
 ```
 let strURL = "" //Add URL
         let JSONDic:[String: Any] = [
@@ -15,7 +16,7 @@ let strURL = "" //Add URL
         }
 ```
 
-#GET METHOD
+# GET METHOD
 ```
 let strURL = "" //Add URL
         let JSONDic:[String: Any] = [:] //Add NIL Perameter of Dictionary
